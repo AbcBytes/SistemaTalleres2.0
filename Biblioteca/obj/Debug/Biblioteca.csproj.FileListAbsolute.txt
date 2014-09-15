@@ -1,0 +1,16 @@
+E:\DEVILMAN\Desktop\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.dll
+E:\DEVILMAN\Desktop\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\DEVILMAN\Desktop\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.dll
+E:\DEVILMAN\Desktop\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\Biblioteca\obj\Debug\Biblioteca.pdb

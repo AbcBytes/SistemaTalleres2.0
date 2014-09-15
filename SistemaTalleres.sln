@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaTalleres", "SistemaTalleres\SistemaTalleres.csproj", "{94C493AD-E88C-4C17-BB75-8A49C2242FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{0F347DA8-E7A0-497E-9800-769692DC3E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C493AD-E88C-4C17-BB75-8A49C2242FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C493AD-E88C-4C17-BB75-8A49C2242FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C493AD-E88C-4C17-BB75-8A49C2242FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C493AD-E88C-4C17-BB75-8A49C2242FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F347DA8-E7A0-497E-9800-769692DC3E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F347DA8-E7A0-497E-9800-769692DC3E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F347DA8-E7A0-497E-9800-769692DC3E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F347DA8-E7A0-497E-9800-769692DC3E93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.dll
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.pdb
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\bin\Biblioteca.dll
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\bin\Biblioteca.pdb
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
+E:\DEVILMAN\Desktop\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\2014\Cuarto Semestre\Desarrollo en .NET\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.dll
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.pdb
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\Biblioteca.dll
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\Biblioteca.pdb
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
+C:\Users\PC\Dropbox\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\bin\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb
